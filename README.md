@@ -37,3 +37,6 @@ Developed during a student project at the Faculty of Automatic Control and Compu
 
 ---
 
+📄 Many more technical details and wiring diagrams are available in the project documentation.
+
+---
