@@ -24,14 +24,14 @@ The project focuses on simple but effective sorting logic and offers a basic int
 
 ## 📸 Media
 
-[Google Drive Folder](https://drive.google.com/drive/folders/1TWQZ1HtLg4hBNpVclLsxRUMKx4vEO6sz)
+[Watch Demo Video on Google Drive](https://drive.google.com/drive/folders/1TWQZ1HtLg4hBNpVclLsxRUMKx4vEO6sz)
 
 ## 🤝 Team
 
 Developed by:  
-- @GabrielBadeaTM  
-- @andreiatudosieiupb 
-- @davidmatei1902 
+- [@GabrielBadeaTM](https://github.com/GabrielBadeaTM)
+- [@andreiatudosieiupb](https://github.com/andreiatudosieiupb)
+- [@davidmatei1902](https://github.com/davidmatei1902)
 
 Developed during a student project at the Faculty of Automatic Control and Computers, University Politehnica of Bucharest (UPB). -- 2025
 
