@@ -24,8 +24,7 @@ The project focuses on simple but effective sorting logic and offers a basic int
 
 ## 📸 Media
 
-[Watch Demo Video]([https://drive.google.com/file/d/ID_FISIER/view?usp=sharing](https://drive.google.com/drive/folders/1TWQZ1HtLg4hBNpVclLsxRUMKx4vEO6sz))
-
+[Google Drive Folder](https://drive.google.com/drive/folders/1TWQZ1HtLg4hBNpVclLsxRUMKx4vEO6sz)
 
 ## 🤝 Team
 
