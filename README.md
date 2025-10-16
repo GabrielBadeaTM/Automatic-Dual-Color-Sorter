@@ -25,6 +25,7 @@ The project focuses on simple but effective sorting logic and offers a basic int
 ## 📸 Media
 
 [Watch Demo Video on Google Drive](https://drive.google.com/drive/folders/1TWQZ1HtLg4hBNpVclLsxRUMKx4vEO6sz)
+(Actually AI is scary, I made it private. If you are interested, message me :])
 
 ## 🤝 Team
 
